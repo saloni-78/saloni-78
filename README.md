@@ -22,16 +22,21 @@ B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 &nbsp;|&nbsp; Building
 
 ### Featured Projects
  
-**[SafeApply — Fake Job Posting Detector]
-ML pipeline for detecting fraudulent job listings on the EMSCAD dataset. Uses TF-IDF (20k features, trigrams) combined with five engineered features and an XGBoost classifier, wrapped in a three-layer hybrid detection system (keyword override → scam pattern scoring → ML model). Achieves F1 = 0.84, ROC-AUC = 0.99. Deployed as a Streamlit app.
+**SafeApply — Fake Job Posting Detector**
+- ML pipeline for detecting fraudulent job listings on the EMSCAD dataset. 
+- Uses TF-IDF (20k features, trigrams) combined with five engineered features and an XGBoost classifier, wrapped in a three-layer hybrid detection system       (keyword override → scam pattern scoring → ML model). 
+- Achieves F1 = 0.84, ROC-AUC = 0.99.
+- Deployed as a Streamlit app.
 `Python` `XGBoost` `Scikit-learn` `Streamlit`
  
-**[Writezy — AI-Powered Blogging Platform]
-Full-stack MERN blog platform with AI-assisted content generation (Groq API, LLaMA 3.3), image hosting via ImageKit, and JWT authentication. Deployed on Vercel and Render.
+**Writezy — AI-Powered Blogging Platform**
+- Full-stack MERN blog platform with AI-assisted content generation (Groq API, LLaMA 3.3), image hosting via ImageKit, and JWT authentication. 
+- Deployed on Vercel and Render.
 `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
  
-**[FocusTube — Distraction-Free YouTube Extension]
-Chrome extension that transforms YouTube into a focused learning environment by hiding Shorts, recommendations, comments, and other distractions. Includes a built-in Pomodoro timer, desktop notifications, session tracking, and a customizable focus mode to boost productivity while studying.
+**FocusTube — Distraction-Free YouTube Extension**
+- Chrome extension that transforms YouTube into a focused learning environment by hiding Shorts, recommendations, comments, and other distractions. 
+- Includes a built-in Pomodoro timer, desktop notifications, session tracking, and a customizable focus mode to boost productivity while studying.
 `JavaScript` `Chrome Extension API` `HTML` `CSS`
 
 
@@ -48,8 +53,11 @@ Chrome extension that transforms YouTube into a focused learning environment by 
 ### Skills
 
 **Languages:** C++, Python, JavaScript
-**ML/Data:** Scikit-learn, XGBoost, Pandas, NumPy
+
+**Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy
+
 **Web Dev:** React, Node.js, Express, MongoDB, Tailwind CSS
+
 **Tools:** Git, Streamlit, Vercel, Render
 
 ---
