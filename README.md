@@ -15,8 +15,8 @@ B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 &nbsp;|&nbsp; Building
 
 - 🎓 Pre-final year B.Tech student in Artificial Intelligence & Data Engineering at MNIT Jaipur
 - 🔍 Aspiring Software Development Engineer (SDE) with a great interest in Machine Learning,  and Full-Stack (MERN) Development
-- 🧩 Consistently strengthening problem-solving and algorithmic thinking by solving  DSA problems on LeetCode and Codeforces using C++.
-- 📫 Reach me at **alonikri779@gmail.com**
+- 🧩 Consistently strengthening problem-solving and algorithmic thinking by solving  DSA problems on LeetCode and Codeforces using C++
+- 📫 Reach me at **salonikri779@gmail.com**
 
 ---
 
