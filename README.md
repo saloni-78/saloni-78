@@ -45,7 +45,7 @@ B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 &nbsp;|&nbsp; Building
 ### Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/saloni-78/saloni-78/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
