@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saloni Kumari 👋</h1>
 
 <p align="center">
-B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 &nbsp;|&nbsp; Building ML & mern-stack projects 
+B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 
 </p>
 
 <p align="center">
@@ -61,7 +61,3 @@ B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 &nbsp;|&nbsp; Building
 **Tools:** Git, Streamlit, Vercel, Render
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saloni-78&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
