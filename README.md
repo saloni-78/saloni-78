@@ -7,7 +7,6 @@ B.Tech (AI & Data Engineering) @ MNIT Jaipur, 2024–2028 &nbsp;|&nbsp; Building
 <p align="center">
   <a href="https://linkedin.com/in/saloni-kumari-25b901319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:salonikri779@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/saloni_77"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---
